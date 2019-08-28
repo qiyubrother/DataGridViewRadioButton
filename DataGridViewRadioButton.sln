@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewRadioButtonElements", "DataGridViewRadioButtonElements\DataGridViewRadioButtonElements.csproj", "{94B8F119-B920-41B4-BA9E-A03578879A0D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataGridViewRadioButtonElementsSample", "DataGridViewRadioButtonElementsSample\DataGridViewRadioButtonElementsSample.csproj", "{E6A3E9E3-2342-4AE6-9EEE-0DC55F06BF07}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B8F119-B920-41B4-BA9E-A03578879A0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B8F119-B920-41B4-BA9E-A03578879A0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B8F119-B920-41B4-BA9E-A03578879A0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B8F119-B920-41B4-BA9E-A03578879A0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6A3E9E3-2342-4AE6-9EEE-0DC55F06BF07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6A3E9E3-2342-4AE6-9EEE-0DC55F06BF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6A3E9E3-2342-4AE6-9EEE-0DC55F06BF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6A3E9E3-2342-4AE6-9EEE-0DC55F06BF07}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5407F19-55E6-4840-BFF8-B401BA6B1B62}
+	EndGlobalSection
+EndGlobal
