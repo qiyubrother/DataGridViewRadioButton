@@ -427,7 +427,7 @@ The DataGridViewRadioButtonColumn does not have such a property so it does not n
 Screenshot of Two DataGridViewRadioButtonColumn Columns
 Figure 1 is a screenshot of the sample application that makes use of the custom cell and column.
 
-Aa730882.winf_radiobutton_1(en-US,VS.80).gif
+![](https://docs.microsoft.com/en-us/previous-versions/images/aa730882.winf_radiobutton_1%28en-us%2cvs.80%29.gif)
 
 Figure1. Two DataGridViewRadioButtonColumn columns with a few cells
 
